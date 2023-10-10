@@ -1,0 +1,80 @@
+.container{
+    position:absolute;
+    top: 0px;
+    left: 220px;
+
+}
+.nav{
+    background-color: white;
+    box-shadow: 0 .15rem 1.75rem 0 rgba(58,59,69,.15)!important;
+    width: 176.90vh;
+    height: 80px;
+    display: flex;
+    display: flex;
+}
+.formcontent form input{
+   height: 35px;
+   width: 450px;
+   margin-left: 30px;
+   margin-top: 23px;
+   border-radius: 7px;
+   background-color: #f8f9fc;
+   border: none;
+}
+.formcontent button{
+   height: 38px;
+   width: 40px;
+   border-radius: 7px;
+   background-color: #4e73df;
+   color: white;
+}
+.Headerarea{
+    margin-top: 30px;
+    margin-left: 500px;
+   font-size: 20px;
+   color: #4e73df;
+    
+}
+.upperarea{
+    position:absolute;
+    left: 1035px;
+    background-color: #e74a3b;
+    color: #fff;
+    font-size: 12px;
+    border-radius: 0.35rem;
+}
+.mail{
+    margin-left: 23px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+.uppertext{
+    position:absolute;
+    left: 1088px;
+    background-color: #e74a3b;
+    color: #fff;
+    font-size: 12px;
+    border-radius: 0.35rem;
+    
+}
+.verticaline{
+   border-left: 1px solid #e3e6f0;
+   height: 40px;
+   position: absolute;
+   left:1120px;
+   top: 20px;
+   
+}
+.Name{
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+.Name a{
+    text-decoration: none;
+}
+.image{
+   width: 40px;
+   margin-left: 10px;
+   margin-top: 20px;
+}

@@ -1,0 +1,11 @@
+.container{
+    position: relative;
+    top: 180px;
+    left: 230px;
+    width: 1258px;
+   
+    
+}
+.bg-danger {
+    background-color: #e74a3b!important;
+}

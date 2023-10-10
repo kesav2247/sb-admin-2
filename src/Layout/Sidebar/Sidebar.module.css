@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    /* height: 100vh; */
+}
+
+
+.sidebar{
+    position: absolute;
+    display: flex;
+    top: 0;
+    left: 0;
+    width: 220px;
+    background-color: #4e73df;
+    height: 1700px;
+    justify-content: center;
+    color: white;
+    
+ 
+    
+    
+    
+}
+  
+.rotate {
+    font-size: 2em;
+    /* transform:rotate(337deg); */
+    color: white;
+     
+}
+.rotate span{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.bordercolour{
+    color:  rgb(255 255 255);
+}
+.main{
+    margin-top: 10px;
+}
+.dashbord i{
+    color: white;
+}
+.dashbord span{
+    color: white;
+    margin-left: 10px;
+    font-size: 15px;
+}
+.todo{
+    margin-left: 40px;
+}
+.collapsheader{
+    font-size: 11px;
+    color: #b7b9cc;
+    
+}
+.dropdown{
+    position: relative;
+}
+
+.dropdowncontent{
+    
+    position: absolute;
+    top: 30px;
+    background-color: white;
+    color: black;
+    margin: 0 auto;
+    width: 180px;
+    padding: 11px;
+    border-radius: 10px;
+    
+}
+.dropdowncontent .dropdownitem{
+ padding: 5px;
+ cursor: pointer;
+ 
+}
+.dropdowncontent .dropdownitem :hover{
+   background-color: #e3e4ee;
+   border-radius: 5px;
+}
+.dropdown span{
+    cursor: pointer;
+}
+.sidebarbtn{
+   text-align: center;
+   margin-top: 20px;
+}
+.sidebarbtn button{
+    height: 45px;
+    width: 45px;
+    border-radius: 30px;
+    background-color: hsl(0deg 0% 100% / 20%);
+    background-image: none;
+    text-transform: none;
+    border: none;
+    color: white;
+}
+.sidebarcard{
+    margin-top: 15px;
+    background-color: aliceblue;
+    text-align: center;
+    width: 180px;
+    height: 230px;
+    background-color: rgb(0 0 0 / 10%);
+    border-radius: 10px;
+}
+.sidebarcard img{
+  
+    height: 50px;
+    margin: 20px;
+}
+.sidebarcard p{
+    color: hsl(0deg 0% 100% / 50%);
+    line-height: 1rem;
+    font-size: 14px;
+    text-align: center;
+    margin: 0px 25px 10px 25px;
+}
+.sidebarcard button{
+    height: 35px;
+    width: 140px;
+    border-radius: 5px;
+    background-color: #1cc88a;
+    border: #1cc88a;
+}
+.sidebarcard a{
+    text-decoration: none;
+   
+    color: white;
+}

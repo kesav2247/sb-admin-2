@@ -1,0 +1,17 @@
+.container{
+    position: relative;
+    top: 180px;
+    left: 230px;
+    width: 1258px;
+   
+    
+}
+.linechat img{
+    height: 339px;
+    width: 800px;
+    align-items: center;
+}
+.pichat img{
+    height: 259px;
+    width: 350px;
+}

@@ -1,0 +1,21 @@
+.container{
+    position: relative;
+    top: 140px;
+    left: 230px;
+    width: 1258px;
+   
+    
+}
+.main{
+    position: absolute;
+    left: 240px;
+    top: 30px;
+   color: #dddfeb;
+}
+.band{
+    border-left: 6px solid rgb(104, 104, 243);
+    border-radius: 7px;
+
+}
+
+
